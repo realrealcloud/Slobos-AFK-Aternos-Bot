@@ -8,14 +8,14 @@
   "server": {
     "ip": "gandusala67.aternos.me",
     "port": 23875,
-    "version": "",
-    "try-creative": false
+    "version": "26.1.2",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x": -68,
     "y": 100,
-    "z": 0
+    "z": 37
   },
   "utils": {
     "auto-auth": {
